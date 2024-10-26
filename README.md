@@ -2,7 +2,7 @@
 
 **`CyberSecurity, Ethical Hacker, CTF Player.`**
 
-I'm a cybersecurity enthusiast and CTF (Capture The Flag) player with a passion for becoming a skilled ethical hacker to assist and protect others. I'm particularly interested in web application vulnerabilities. I also enjoy to sharing my knowledge and learning from fellow enthusiasts whenever I have the opportunity.
+Security researcher with 3 years of intensive experience in CTF competitions with an interest in offensive security, ethical hacker, security automation and bug bounty.Consistently developing and applying practical cybersecurity skills through hands-on challenges and real-world scenario simulations.
 
 
 <h2> 🖥️ Languages and Tools </h2>
